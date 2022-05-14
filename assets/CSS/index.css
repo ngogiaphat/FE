@@ -1,13 +1,5 @@
-h1
-{
-  color: red;
-  font-size:20px;
-}
-li
-{
-  color: black;
-  font-size:20px;
-}
+/* 
+
 #first-heading
 {
   color:blueviolet;
@@ -22,18 +14,44 @@ li
 {
   color:gray;
   font-size:60px;
-}
-/* *
+} */
+html
 {
-  color: red;
-  font-size:100px;
+  color: aqua;
+  font-size:40px;
+}
+li
+{
+  color: black !important;
+  font-size:20px;
+}
+li
+{
+  color: green;
+  font-size:20px;
+}
+h1#first-heading
+{
+  color: red !important;
+  font-size:20px;
+}
+/* #div-id  > * tr
+{
+  color: aquamarine;
+  font-size:20px;
 }
 #div-id
 {
   color: aquamarine;
   font-size:20px;
+}
+*
+{
+  color: red;
+  font-size:100px;
 } */
-/* div#div-id.class-id
+
+/*div#div-id.class-id
 {
   color:aqua;
   font-size:20px;
