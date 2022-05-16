@@ -1,14 +1,19 @@
-:root
+/* :root
 {
-    --text-color: red;
-}
+    --text-color: green;
+} */
 h1
 {
-    color: var(--text-color);
+    /* color: var(--text-color); */
+    font-size: 40px;
 }
 .box
 {
-    width: 100px;
+    width: 50%;
     height: 100px;
     background-color: aqua;
+}
+html
+{
+    font-size: 40px;
 }
