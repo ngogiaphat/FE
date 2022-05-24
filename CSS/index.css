@@ -67,12 +67,17 @@ table
 }
 h1
 {
-    color: var(--text-color);
-    font-size: 40px;
+  color: var(--text-color);
+  font-size: 40px;
 }
 .box
 {
-    width: 50%;
-    height: 100px;
-    background-color: aqua;
+  width: 50%;
+  height: 100px;
+  background-color: aqua;
+}
+span 
+{
+  color: red;
+  font-size: 200px;
 }
