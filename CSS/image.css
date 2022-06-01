@@ -1,0 +1,29 @@
+* 
+{
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+section 
+{
+  height: 100vh;
+  overflow: hidden;
+  background: #000;
+  width: 100vw;
+}
+marquee p
+{
+  color: transparent;
+  position: relative;
+  font-size: 1.5em;
+  letter-spacing: -0.05em;
+  line-height: 0.7em;
+  background: url(6dc673bb90f851a608e9.jpg), url(139797950_1084609785335737_4802001503725361075_n.jpg);
+  background-blend-mode: color-dodge;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: center;
+  background-repeat: no-repeat;
+  -webkit-background-clip:text;
+}
