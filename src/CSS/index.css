@@ -87,8 +87,6 @@ span
   height: 60px;
   color: white;
   /**display: flex;**/
-  align-items: center;
-  justify-content: center;
 }
 .box1
 {
@@ -107,5 +105,5 @@ span
   padding-bottom: 10px;
   padding: 2px 4px;
   padding: 10px;             */
-  padding: 2px 4px 6px 8px;
+  
 }

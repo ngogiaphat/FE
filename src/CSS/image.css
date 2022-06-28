@@ -19,7 +19,7 @@ marquee p
   font-size: 1.5em;
   letter-spacing: -0.05em;
   line-height: 0.7em;
-  background: url('../IMG/282111744_1489503568162921_8550020185875727182_n.jpg'), url('../IMG/282111744_1489503568162921_8550020185875727182_n.jpg');
+  background: url('/assets/img/282111744_1489503568162921_8550020185875727182_n.jpg'), url('/assets/img/282111744_1489503568162921_8550020185875727182_n.jpg');
   background-blend-mode: color-dodge;
   background-position: center;
   background-attachment: fixed;
